@@ -1,4 +1,4 @@
-FROM quay.io/roboll/helmfile:v0.61.1
+FROM quay.io/roboll/helmfile:v0.73.0
 
 # install aws cli
 RUN apk --update add python curl
